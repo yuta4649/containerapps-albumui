@@ -7,7 +7,7 @@ on:
   # 自動実行用トリガー
   push:
     branches: 
-      [ main ]
+      [ master ]
     paths:
     - '**'    
 # Add env
